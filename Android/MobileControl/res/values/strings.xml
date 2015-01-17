@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileControl</string>
+    <string name="bluetooth_on">Turn on Bluetooth</string>
+    <string name="bluetooth_off">Turn off Bluetooth</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
